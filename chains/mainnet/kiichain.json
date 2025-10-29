@@ -1,0 +1,31 @@
+{
+  "chain_name": "kiichain",
+  "api": [
+    {
+      "provider": "TODO",
+      "address": "TODO"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "TODO",
+      "address": "TODO"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.53.4",
+  "coin_type": "60",
+  "min_tx_fee": "400000000",
+  "addr_prefix": "kii",
+  "logo": "/logos/kii.png",
+  "theme_color": "#161723",
+  "assets": [
+    {
+      "base": "akii",
+      "symbol": "KII",
+      "exponent": "18",
+      "coingecko_id": "kii",
+      "logo": "/logos/kii.png"
+    }
+  ]
+}
