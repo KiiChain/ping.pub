@@ -2,14 +2,14 @@
   "chain_name": "kiichain",
   "api": [
     {
-      "provider": "TODO",
-      "address": "TODO"
+      "provider": "KiiChain",
+      "address": "https://lcd.kiivalidator.com"
     }
   ],
   "rpc": [
     {
-      "provider": "TODO",
-      "address": "TODO"
+      "provider": "KiiChain",
+      "address": "https://rpc.kiivalidator.com"
     }
   ],
   "snapshot_provider": "",
